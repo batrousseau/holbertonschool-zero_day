@@ -1,0 +1,3 @@
+cat exceptions.gitignore
+#Ignore every file pushed beginning with a Ã~ as it's temp files
+~*
